@@ -2,6 +2,7 @@
 📌 Overview
 
 This project aims to predict the presence of heart disease in a patient using machine learning algorithms. It uses a dataset containing various health parameters like age, blood pressure, cholesterol, etc., to build a predictive model. This can help in early diagnosis and preventive treatment of heart-related conditions.
+
 🧪 Objective
 
 To develop a machine learning model that can accurately classify whether a person is likely to have heart disease based on clinical features.
